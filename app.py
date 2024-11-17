@@ -138,7 +138,7 @@ def upload_file():
                     <p>CSVファイルをアップロードしてください。</p>
                     <input type="file" name="file" accept=".csv" required>
                     <input type="submit" value="アップロード">
-                    <p id="download-message" class="message" style="display: none;">ダウンロードされました。</p>
+                    <p id="download-message" class="message" style="display: none;">ダウンロードしています。</p>
                 </form>
             </div>
         </body>
